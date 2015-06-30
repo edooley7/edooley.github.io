@@ -1,4 +1,10 @@
-This is my new about page.
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+This is information about me.
 
 ### Contact me
 
