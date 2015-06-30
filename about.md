@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
 This is my new about page.
 
 ### Contact me
